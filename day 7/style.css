@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(183, 255, 0);
+    color: black;
+    font-size: 30px;
+}
+
+iframe{
+    background-color: aquamarine;
+    border: 10px solid black;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 1);
+    font-weight: 800;
+}
+
+sub{
+    font-weight: 100;
+    font-size: 20px;
+    color: red;
+ }
